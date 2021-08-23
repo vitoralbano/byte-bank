@@ -1,7 +1,6 @@
 package br.com.bytebank.banco.test;
 
 import java.io.*;
-import java.nio.CharBuffer;
 
 public class TesteLeitura {
     public static void main (String[] args) throws IOException {
