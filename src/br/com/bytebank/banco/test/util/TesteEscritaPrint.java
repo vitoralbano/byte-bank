@@ -5,7 +5,7 @@ import java.io.PrintStream;
 import java.io.PrintWriter;
 
 public class TesteEscritaPrint {
-    public static void main (String args[]) throws FileNotFoundException {
+    public static void main (String[] args) throws FileNotFoundException {
 //        PrintStream writer = new PrintStream("teste-escrita.txt");
         PrintWriter writer = new PrintWriter("teste-escrita.txt");
 

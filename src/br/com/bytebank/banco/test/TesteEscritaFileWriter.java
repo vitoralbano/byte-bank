@@ -5,7 +5,7 @@ import java.io.FileWriter;
 import java.io.IOException;
 
 public class TesteEscritaFileWriter {
-    public static void main (String args[]) throws IOException {
+    public static void main (String[] args) throws IOException {
         BufferedWriter bw = new BufferedWriter(new FileWriter("teste-escrita.txt"));
 
         bw.write("Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the");
