@@ -10,3 +10,4 @@ out/
 .idea/*
 
 teste-escrita.txt
+*.bin
