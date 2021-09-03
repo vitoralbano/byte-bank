@@ -7,5 +7,6 @@
 out/
 
 .idea_modules/
+.idea/*
 
 teste-escrita.txt
