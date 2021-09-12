@@ -14,7 +14,7 @@ public class Cliente implements Serializable {
     public static final long serialVersionUID = 1L;
 
     private String nome;
-    private String cpf;
+    private transient String cpf;
     private String profissao;
 
     public String getNome() {
